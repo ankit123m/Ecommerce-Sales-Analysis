@@ -13,5 +13,5 @@ With filters for region, segment, and product category, this dashboard is a valu
 
 💡 Created using advanced Excel functionalities, this project reflects my passion for data visualization and driving data-driven decisions.
 
-#ExcelDashboard #DataAnalytics #eCommerceSales #BusinessIntelligence #DataVisualization #Excel
+
 ![Screenshot 2025-04-07 103157](https://github.com/user-attachments/assets/7012bf0c-c1cc-41f2-997e-e537d402c087)
